@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "coursename": "History",
+      "courseid": "Hs101",
+      "quizlink": "././biz",
+      "id": 1
+    },
+    {
+      "coursename": "Java",
+      "courseid": "Js102",
+      "quizlink": "././biz",
+      "id": 2
+    },
+    {
+      "coursename": "Computer Networks",
+      "courseid": "CN304",
+      "quizlink": "././biz",
+      "id": 3
+    },
+    {
+      "coursename": "Mathematics",
+      "courseid": "MA202",
+      "quizlink": "././biz",
+      "id": 4
+    }
+  ]
+}
